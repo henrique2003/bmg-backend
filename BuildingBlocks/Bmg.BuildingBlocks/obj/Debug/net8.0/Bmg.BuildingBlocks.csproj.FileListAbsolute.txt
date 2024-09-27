@@ -1,0 +1,12 @@
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\BuildingBlocks\Bmg.BuildingBlocks\bin\Debug\net8.0\Bmg.BuildingBlocks.deps.json
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\BuildingBlocks\Bmg.BuildingBlocks\bin\Debug\net8.0\Bmg.BuildingBlocks.dll
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\BuildingBlocks\Bmg.BuildingBlocks\bin\Debug\net8.0\Bmg.BuildingBlocks.pdb
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\BuildingBlocks\Bmg.BuildingBlocks\obj\Debug\net8.0\Bmg.BuildingBlocks.csproj.AssemblyReference.cache
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\BuildingBlocks\Bmg.BuildingBlocks\obj\Debug\net8.0\Bmg.BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\BuildingBlocks\Bmg.BuildingBlocks\obj\Debug\net8.0\Bmg.BuildingBlocks.AssemblyInfoInputs.cache
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\BuildingBlocks\Bmg.BuildingBlocks\obj\Debug\net8.0\Bmg.BuildingBlocks.AssemblyInfo.cs
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\BuildingBlocks\Bmg.BuildingBlocks\obj\Debug\net8.0\Bmg.BuildingBlocks.csproj.CoreCompileInputs.cache
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\BuildingBlocks\Bmg.BuildingBlocks\obj\Debug\net8.0\Bmg.BuildingBlocks.dll
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\BuildingBlocks\Bmg.BuildingBlocks\obj\Debug\net8.0\refint\Bmg.BuildingBlocks.dll
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\BuildingBlocks\Bmg.BuildingBlocks\obj\Debug\net8.0\Bmg.BuildingBlocks.pdb
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\BuildingBlocks\Bmg.BuildingBlocks\obj\Debug\net8.0\ref\Bmg.BuildingBlocks.dll

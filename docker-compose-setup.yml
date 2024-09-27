@@ -1,0 +1,24 @@
+version: "3.8"
+services:
+  database:
+    image: mysql:oracle
+    command: --mysql-native-password=ON --lc_time_names="pt_BR" --sql_mode="STRICT_TRANS_TABLES,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION" --character-set-server=utf8mb4 --collation-server=utf8mb4_0900_ai_ci --log-bin-trust-function-creators=1
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: bmg
+      MYSQL_USER: bmg
+      MYSQL_PASSWORD: bmg
+      MYSQL_INNODB_FORCE_RECOVERY: "1"
+      LC_TIME: pt_BR.UTF-8
+      MYSQL_LOG_BIN_TRUST_FUNCTION_CREATORS: 1
+    volumes:
+      - C:\\temp\\docker\\bmg\\mysql\\:/var/lib/mysql
+    ports:
+      - 3306:3306
+    networks:
+      - bmg
+
+networks:
+  bmg:
+    driver: bridge

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uQhM3obDQFSsXQEAJtX0mc5TglozJcoi3uF2CbFNkFabj2NvCu9wUVWxvAWUUceMZh35zsXr+RhPXFpPq3xMXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HenriquedeMeloCristi\\Desktop\\bmg\\backend\\Domain\\Bmg.Domain\\Bmg.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HenriquedeMeloCristi\\.nuget\\packages\\csharpfunctionalextensions\\3.0.0\\csharpfunctionalextensions.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

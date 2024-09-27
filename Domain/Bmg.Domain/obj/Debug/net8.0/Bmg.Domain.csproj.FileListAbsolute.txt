@@ -1,0 +1,12 @@
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\Domain\Bmg.Domain\bin\Debug\net8.0\Bmg.Domain.deps.json
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\Domain\Bmg.Domain\bin\Debug\net8.0\Bmg.Domain.dll
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\Domain\Bmg.Domain\bin\Debug\net8.0\Bmg.Domain.pdb
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\Domain\Bmg.Domain\obj\Debug\net8.0\Bmg.Domain.csproj.AssemblyReference.cache
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\Domain\Bmg.Domain\obj\Debug\net8.0\Bmg.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\Domain\Bmg.Domain\obj\Debug\net8.0\Bmg.Domain.AssemblyInfoInputs.cache
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\Domain\Bmg.Domain\obj\Debug\net8.0\Bmg.Domain.AssemblyInfo.cs
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\Domain\Bmg.Domain\obj\Debug\net8.0\Bmg.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\Domain\Bmg.Domain\obj\Debug\net8.0\Bmg.Domain.dll
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\Domain\Bmg.Domain\obj\Debug\net8.0\refint\Bmg.Domain.dll
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\Domain\Bmg.Domain\obj\Debug\net8.0\Bmg.Domain.pdb
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\Domain\Bmg.Domain\obj\Debug\net8.0\ref\Bmg.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\Application\Bmg.Application\bin\Debug\net8.0\Bmg.Application.deps.json
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\Application\Bmg.Application\bin\Debug\net8.0\Bmg.Application.dll
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\Application\Bmg.Application\bin\Debug\net8.0\Bmg.Application.pdb
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\Application\Bmg.Application\bin\Debug\net8.0\Bmg.BuildingBlocks.dll
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\Application\Bmg.Application\bin\Debug\net8.0\Bmg.Domain.dll
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\Application\Bmg.Application\bin\Debug\net8.0\Bmg.BuildingBlocks.pdb
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\Application\Bmg.Application\bin\Debug\net8.0\Bmg.Domain.pdb
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\Application\Bmg.Application\obj\Debug\net8.0\Bmg.Application.csproj.AssemblyReference.cache
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\Application\Bmg.Application\obj\Debug\net8.0\Bmg.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\Application\Bmg.Application\obj\Debug\net8.0\Bmg.Application.AssemblyInfoInputs.cache
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\Application\Bmg.Application\obj\Debug\net8.0\Bmg.Application.AssemblyInfo.cs
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\Application\Bmg.Application\obj\Debug\net8.0\Bmg.Application.csproj.CoreCompileInputs.cache
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\Application\Bmg.Application\obj\Debug\net8.0\Bmg.Appl.618C6B1C.Up2Date
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\Application\Bmg.Application\obj\Debug\net8.0\Bmg.Application.dll
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\Application\Bmg.Application\obj\Debug\net8.0\refint\Bmg.Application.dll
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\Application\Bmg.Application\obj\Debug\net8.0\Bmg.Application.pdb
+C:\Users\HenriquedeMeloCristi\Desktop\bmg\backend\Application\Bmg.Application\obj\Debug\net8.0\ref\Bmg.Application.dll
