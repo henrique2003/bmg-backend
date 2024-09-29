@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bmg.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d02e07eb69cd1776f3fa0b17a65f49ae35a5137c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bmg.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bmg.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

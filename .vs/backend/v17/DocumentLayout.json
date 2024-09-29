@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\HenriquedeMeloCristi\\Desktop\\bmg\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAF5DC4D-9553-4AF1-A26E-C1A33F020783}|Adapters\\Bmg.API\\Bmg.API.csproj|c:\\users\\henriquedemelocristi\\desktop\\bmg\\backend\\adapters\\bmg.api\\dtos\\clients\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAF5DC4D-9553-4AF1-A26E-C1A33F020783}|Adapters\\Bmg.API\\Bmg.API.csproj|solutionrelative:adapters\\bmg.api\\dtos\\clients\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAF5DC4D-9553-4AF1-A26E-C1A33F020783}|Adapters\\Bmg.API\\Bmg.API.csproj|c:\\users\\henriquedemelocristi\\desktop\\bmg\\backend\\adapters\\bmg.api\\converters\\clients\\clientconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAF5DC4D-9553-4AF1-A26E-C1A33F020783}|Adapters\\Bmg.API\\Bmg.API.csproj|solutionrelative:adapters\\bmg.api\\converters\\clients\\clientconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAF5DC4D-9553-4AF1-A26E-C1A33F020783}|Adapters\\Bmg.API\\Bmg.API.csproj|c:\\users\\henriquedemelocristi\\desktop\\bmg\\backend\\adapters\\bmg.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BAF5DC4D-9553-4AF1-A26E-C1A33F020783}|Adapters\\Bmg.API\\Bmg.API.csproj|solutionrelative:adapters\\bmg.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ClientDto.cs",
-              "DocumentMoniker": "C:\\Users\\HenriquedeMeloCristi\\Desktop\\bmg\\backend\\Adapters\\Bmg.API\\Dtos\\Clients\\ClientDto.cs",
-              "RelativeDocumentMoniker": "Adapters\\Bmg.API\\Dtos\\Clients\\ClientDto.cs",
-              "ToolTip": "C:\\Users\\HenriquedeMeloCristi\\Desktop\\bmg\\backend\\Adapters\\Bmg.API\\Dtos\\Clients\\ClientDto.cs",
-              "RelativeToolTip": "Adapters\\Bmg.API\\Dtos\\Clients\\ClientDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T21:47:51.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClientConverter.cs",
-              "DocumentMoniker": "C:\\Users\\HenriquedeMeloCristi\\Desktop\\bmg\\backend\\Adapters\\Bmg.API\\Converters\\Clients\\ClientConverter.cs",
-              "RelativeDocumentMoniker": "Adapters\\Bmg.API\\Converters\\Clients\\ClientConverter.cs",
-              "ToolTip": "C:\\Users\\HenriquedeMeloCristi\\Desktop\\bmg\\backend\\Adapters\\Bmg.API\\Converters\\Clients\\ClientConverter.cs",
-              "RelativeToolTip": "Adapters\\Bmg.API\\Converters\\Clients\\ClientConverter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T21:47:43.055Z",
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\HenriquedeMeloCristi\\Desktop\\bmg\\backend\\Adapters\\Bmg.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Adapters\\Bmg.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\HenriquedeMeloCristi\\Desktop\\bmg\\backend\\Adapters\\Bmg.API\\appsettings.Development.json",
+              "RelativeToolTip": "Adapters\\Bmg.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-29T21:49:06.055Z",
               "EditorCaption": ""
             }
           ]
